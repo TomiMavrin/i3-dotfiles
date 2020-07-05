@@ -27,9 +27,6 @@ client.focused_inactive #00897B #1E272B #EAD49B #78824B #78824B
 client.urgent #00897B #1E272B #EAD49B #78824B #78824B
 client.placeholder #00897B #1E272B #EAD49B #78824B #78824B
 
-#Apply wallpaper
-exec ~/.fehbg
-
 # Print screen using `deepin-screenshot`
 bindsym Print exec deepin-screenshot -n -s ~/Pictures/Screenshots
 
